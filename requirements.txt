@@ -1,0 +1,7 @@
+llama-index==0.4.24
+tiktoken==0.3.0
+langchain==0.0.106
+python-dotenv==1.0.0
+django==4.1.7
+djangorestframework==3.14.0
+django-cors-headers==3.14.0
